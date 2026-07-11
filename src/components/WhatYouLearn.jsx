@@ -16,10 +16,6 @@ export default function WhatYouLearn() {
       desc: "How to handle incoming chats, website form submissions, and calls, converting them into confirmed clinic visits."
     },
     {
-      title: "Create Your Private Booking System",
-      desc: "Build a self-managed booking infrastructure like major hospital networks to reduce front-desk manual work."
-    },
-    {
       title: "Shortcut to Local Medical Authority",
       desc: "How to establish yourself as the top trusted specialist in your city, even if you have just opened your practice."
     },
@@ -64,7 +60,7 @@ export default function WhatYouLearn() {
           </p>
         </div>
 
-        {/* 6 Learning Grid Cards */}
+        {/* 5 Learning Grid Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl mx-auto mb-20">
           {learningPoints.map((point, index) => (
             <div

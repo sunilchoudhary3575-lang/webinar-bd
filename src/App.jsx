@@ -3,7 +3,6 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Audience from './components/Audience';
 import WhatYouLearn from './components/WhatYouLearn';
-import PatientJourney from './components/PatientJourney';
 import Speaker from './components/Speaker';
 import Agenda from './components/Agenda';
 import FAQ from './components/FAQ';
@@ -30,9 +29,6 @@ function App() {
 
         {/* Section 3: Core Curriculum details */}
         <WhatYouLearn />
-
-        {/* Section 4: Patient Lifecycle flowchart */}
-        <PatientJourney />
 
         {/* Section 5: Host details & Credibility */}
         <Speaker />

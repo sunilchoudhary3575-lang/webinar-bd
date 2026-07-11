@@ -21,7 +21,6 @@ export default function Navbar() {
   const navItems = [
     { name: 'Benefits', href: '#target' },
     { name: 'What You\'ll Learn', href: '#learn' },
-    { name: 'Patient Journey', href: '#journey' },
     { name: 'Speaker', href: '#speaker' },
     { name: 'Agenda', href: '#agenda' },
     { name: 'FAQs', href: '#faq' },

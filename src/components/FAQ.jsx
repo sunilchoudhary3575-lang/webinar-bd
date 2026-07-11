@@ -15,7 +15,7 @@ export default function FAQ() {
     },
     {
       q: "How will it help me in my medical practice & clinic growth?",
-      a: "It will show you how to build a consistent patient flow, establish yourself as a local medical authority, and implement a private booking system to minimize manual front-desk work."
+      a: "It will show you how to build a consistent patient flow and establish yourself as a local medical authority."
     },
     {
       q: "Will I be able to generate quality patient bookings from social media?",

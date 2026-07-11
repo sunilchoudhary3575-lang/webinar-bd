@@ -73,7 +73,6 @@ export default function Footer() {
               <ul className="space-y-2 text-xs">
                 <li><a href="#target" className="hover:text-white transition-colors">Target Audience</a></li>
                 <li><a href="#learn" className="hover:text-white transition-colors">What You'll Learn</a></li>
-                <li><a href="#journey" className="hover:text-white transition-colors">Patient Journey</a></li>
                 <li><a href="#speaker" className="hover:text-white transition-colors">Speakers</a></li>
                 <li><a href="#agenda" className="hover:text-white transition-colors">Agenda Timeline</a></li>
                 <li><a href="#faq" className="hover:text-white transition-colors">FAQ Accordions</a></li>
